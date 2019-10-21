@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KotlinArchitecture</string>
+    <string name="author">Author</string>
+    <string name="quote">Quote</string>
+    <string name="i_like_hummus_me">I like hummus - me</string>
+    <string name="add_quote">Add quote</string>
 </resources>
