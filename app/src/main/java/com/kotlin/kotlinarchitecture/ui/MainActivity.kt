@@ -1,7 +1,8 @@
-package com.kotlin.kotlinarchitecture
+package com.kotlin.kotlinarchitecture.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.kotlin.kotlinarchitecture.R
 
 class MainActivity : AppCompatActivity() {
 
